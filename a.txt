@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 abcd  safdsdf
-=======
 abcd  asfdsadfsd
->>>>>>> d4c05f9f189a363864af8515d7052384667e8851
 asfsad
 asfsda
 asfdsdfsad
